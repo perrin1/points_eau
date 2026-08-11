@@ -1,0 +1,5 @@
+modele,cv_f1_macro,cv_ecart_type,test_exactitude,test_f1_macro,f1_en panne,f1_fonctionnel,f1_fonctionnel a reparer
+Foret aleatoire,0.6291,0.0121,0.7133,0.6201,0.7229,0.764,0.3735
+HistGradientBoosting,0.6213,0.0121,0.7475,0.6388,0.7465,0.796,0.3738
+Regression logistique,0.6182,0.0108,0.6957,0.622,0.723,0.7564,0.3866
+Reference triviale,0.2361,0.0001,0.5484,0.2361,0.0,0.7084,0.0

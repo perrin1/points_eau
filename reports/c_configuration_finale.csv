@@ -1,0 +1,6 @@
+strategie,cv_f1_macro,cv_ecart_type,test_f1_macro,test_f1_pondere,f1_en panne,f1_fonctionnel,f1_fonctionnel a reparer,n_colonnes
+toutes les variables,0.6213,0.0121,0.6388,0.7439,0.7465,0.796,0.3738,202
+sans commune,0.6255,0.0141,0.6204,0.7345,0.7331,0.7936,0.3344,126
+sans commune + departement,0.6178,0.016,0.6271,0.7352,0.7358,0.79,0.3556,115
+sans installateur,0.6037,0.0112,0.6271,0.7307,0.724,0.7877,0.3697,150
+sans les trois,0.6026,0.0066,0.6057,0.719,0.7203,0.7761,0.3208,63

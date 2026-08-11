@@ -1,0 +1,6 @@
+approche,cv_f1_macro,cv_ecart_type,test_exactitude,test_f1_macro,f1_en panne,f1_fonctionnel,f1_fonctionnel a reparer,rappel_en panne,rappel_fonctionnel,rappel_fonctionnel a reparer
+4. sur-echantillonnage aleatoire,0.6263,0.0128,0.7396,0.6256,0.7293,0.7953,0.3522,0.737,0.8042,0.3077
+3. poids manuels (x2 sur la minoritaire),0.6226,0.0099,0.7374,0.6343,0.7329,0.7913,0.3785,0.7394,0.7898,0.3681
+2. class_weight='balanced',0.6213,0.0121,0.7475,0.6388,0.7465,0.796,0.3738,0.7642,0.797,0.3297
+5. SMOTE,0.62,0.0143,0.7492,0.6141,0.7347,0.8051,0.3026,0.73,0.8385,0.2253
+1. aucun traitement,0.601,0.0127,0.7505,0.6119,0.7299,0.8079,0.298,0.7264,0.8457,0.2088

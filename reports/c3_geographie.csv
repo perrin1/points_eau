@@ -1,0 +1,5 @@
+strategie,cv_f1_macro,cv_ecart_type,test_f1_macro,test_f1_pondere,f1_en panne,f1_fonctionnel,f1_fonctionnel a reparer,n_colonnes
+departement seul,0.6255,0.0141,0.6204,0.7345,0.7331,0.7936,0.3344,126
+les deux,0.6213,0.0121,0.6388,0.7439,0.7465,0.796,0.3738,202
+aucun des deux,0.6178,0.016,0.6271,0.7352,0.7358,0.79,0.3556,115
+commune seule,0.6141,0.0083,0.6318,0.7445,0.7484,0.7997,0.3473,191

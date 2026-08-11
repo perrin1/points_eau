@@ -1,0 +1,6 @@
+strategie,cv_f1_macro,cv_ecart_type,test_f1_macro,test_f1_pondere,f1_en panne,f1_fonctionnel,f1_fonctionnel a reparer,n_colonnes
+5. target encoding (CV interne),0.6283,0.0133,0.6291,0.7355,0.7297,0.7934,0.3642,80
+2. one-hot brut,0.6213,0.0121,0.6388,0.7439,0.7465,0.796,0.3738,202
+3. regroupement des rares (<1%),0.6189,0.0125,0.6367,0.7353,0.7299,0.7891,0.3913,201
+4. encodage par frequence,0.6102,0.0065,0.6159,0.7289,0.7313,0.7852,0.3312,76
+1. exclusion des deux variables,0.6059,0.0042,0.6369,0.7392,0.7364,0.7933,0.381,74
