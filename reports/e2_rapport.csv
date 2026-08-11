@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+en panne,0.7265,0.7394,0.7329,848.0
+fonctionnel,0.7929,0.7898,0.7913,1251.0
+fonctionnel a reparer,0.3895,0.3681,0.3785,182.0
+accuracy,0.7374,0.7374,0.7374,0.7374
+macro avg,0.6363,0.6324,0.6343,2281.0
+weighted avg,0.7361,0.7374,0.7367,2281.0

@@ -1,0 +1,5 @@
+budget_inspections,detectes_a_reparer,attendu_au_hasard,gain,precision_%,part_de_la_classe_couverte_%
+100,47,8.0,5.89,47.0,25.8
+250,87,19.9,4.36,34.8,47.8
+500,119,39.9,2.98,23.8,65.4
+1000,163,79.8,2.04,16.3,89.6
